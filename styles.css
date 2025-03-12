@@ -198,3 +198,8 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+.img-fluid-roudend-5 {
+    width: 10;
+    right: 20;
+}
