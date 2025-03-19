@@ -112,13 +112,11 @@ h2 {
     background-size: 180px 180px;
 }
 
-#contato {
+/*#contato {
     background-image: ;
     background-size: cover;
     padding: 4rem 0;
-    /* Espaçamento interno para a seção de contato */
-
-}
+    /* Espaçamento interno para a seção de contato*/
 
 .formulario {
     background-color: #ffffff;
